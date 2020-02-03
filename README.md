@@ -1,4 +1,4 @@
-# 42Madrid school ft_server project
+# 42Madrid School ft_server project
 ### Mandatory: Score 100/100
 ***
 ### Challenge
