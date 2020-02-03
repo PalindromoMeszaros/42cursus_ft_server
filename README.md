@@ -5,7 +5,7 @@
 **Subject** *This project is intended to introduce you to the basics of system and network administration. It will allow you to install a complete web server, using a deployment technology named Docker. This server will run multiples services: Wordpress, phpMyAdmin, and a SQL database*
 
 The web server is deployed in only one docker container which OS is Debian buster. It starts on the wordpress index page and uses SSL protocol.
-A Dockerfile and the neccesary configurations files are included for creating a Docker image.
+A Dockerfile and the neccesary configuration files are included for creating a Docker image.
 The Docker image would include:
 - Nginx
 - PHP 7.3
